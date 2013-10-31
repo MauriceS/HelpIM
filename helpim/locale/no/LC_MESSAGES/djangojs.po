@@ -1,0 +1,156 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Maurice Samulski <msamulski@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: HelpIM3 3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-08 00:55+0200\n"
+"PO-Revision-Date: 2013-10-31 21:36+0100\n"
+"Last-Translator: Maurice Samulski <msamulski@gmail.com>\n"
+"Language-Team: Bondetelefonen\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: static/xmpptk/helpim/util.js:36
+msgid "Warning: this action will disconnect your chat conversation."
+msgstr "Advarsel: Denne handlingen vil koble fra chat-samtale."
+
+#: static/xmpptk/helpim/ui/client.js:55
+#: static/xmpptk/helpim/ui/muc/one2oneroom.js:166
+msgid "Error"
+msgstr "Feil"
+
+#: static/xmpptk/helpim/ui/client.js:56 static/xmpptk/helpim/ui/client.js:177
+#: static/xmpptk/helpim/ui/client_running.js:23
+msgid "An error occured"
+msgstr "Det oppsto en feil"
+
+#: static/xmpptk/helpim/ui/client.js:79
+msgid "Stop Conversation"
+msgstr "Stopp samtale"
+
+#: static/xmpptk/helpim/ui/client.js:94
+msgid "Confirm"
+msgstr "Bekreft"
+
+#: static/xmpptk/helpim/ui/client.js:95
+msgid "Are you sure you want to end this conversation?"
+msgstr "Er du sikker på at du vil avbryte samtalen?"
+
+#: static/xmpptk/helpim/ui/client.js:169
+msgid "Sorry, you're not allowed to access this service"
+msgstr "Beklager, du har ikke tilgang til å se denne siden"
+
+#: static/xmpptk/helpim/ui/client.js:172
+msgid "Sorry, you're not allowed to request more chats"
+msgstr "Beklager, du har ikke lov til å be om flere samtaler"
+
+#: static/xmpptk/helpim/ui/client.js:196
+msgid "Join Chat"
+msgstr "Bli med i chat"
+
+#: static/xmpptk/helpim/ui/client.js:197
+msgid "Nickname"
+msgstr "Kallenavn"
+
+#: static/xmpptk/helpim/ui/client.js:199
+msgid "Subject"
+msgstr "Emne"
+
+#: static/xmpptk/helpim/ui/client.js:214
+msgid "Please provide a nickname!"
+msgstr "Vennligst oppgi et kallenavn!"
+
+#: static/xmpptk/helpim/ui/client.js:240
+msgid "Questionnaire"
+msgstr "Spørreskjema"
+
+#: static/xmpptk/helpim/ui/client.js:301
+msgid "staff"
+msgstr "medarbeidere"
+
+#: static/xmpptk/helpim/ui/client.js:304
+msgid "waiting..."
+msgstr "venter..."
+
+#: static/xmpptk/helpim/ui/client_running.js:24
+msgid "Sorry, there's already a conversation active at some other window."
+msgstr "Beklager, det er allerede en samtale aktiv på noen andre vinduet."
+
+#: static/xmpptk/helpim/ui/muc/lobbyroom.js:46
+msgid "Request Client"
+msgstr "Be om hjelpsøker"
+
+#: static/xmpptk/helpim/ui/muc/one2oneroom.js:42
+#, perl-format
+msgid "Welcome %s, now wait for a participant to join!"
+msgstr "Velkommen %s, nå venter på en deltaker til å bli med!"
+
+#: static/xmpptk/helpim/ui/muc/one2oneroom.js:53
+msgid "Ring! Ring!"
+msgstr "Ring! Ring!"
+
+#: static/xmpptk/helpim/ui/muc/one2oneroom.js:135
+#: static/xmpptk/helpim/ui/muc/one2oneroom.js:145
+msgid "Block Participant"
+msgstr "Blokk hjelpsøker"
+
+#: static/xmpptk/helpim/ui/muc/one2oneroom.js:157
+msgid "Block participant"
+msgstr "Blokk hjelpsøker"
+
+#: static/xmpptk/helpim/ui/muc/waitingroom.js:53
+msgid "Please wait!"
+msgstr "Vennligst vent!"
+
+#: static/xmpptk/helpim/ui/muc/waitingroom.js:54
+msgid ""
+"Please wait while we're acquiring a conversation for you! This can take some "
+"time."
+msgstr ""
+"Vennligst vent mens vi anskaffe en samtale for deg! Dette kan ta litt tid."
+
+#~ msgid "%s stopped composing"
+#~ msgstr "%s har sluttet å skrive"
+
+#~ msgid "%s is composing a message"
+#~ msgstr "%s skriver en melding"
+
+#~ msgid "%s has entered the conversation"
+#~ msgstr "%s har kommet inn i samtalen"
+
+#~ msgid "You have been kicked"
+#~ msgstr "Samtalen avsluttes"
+
+#~ msgid "%s has been kicked"
+#~ msgstr "%s har blitt sparket fra chat"
+
+#~ msgid "%s has disappeared from the conversation"
+#~ msgstr "%s har forsvunnet fra samtalen"
+
+#~ msgid "%s has ended the conversation"
+#~ msgstr "%s har avsluttet samtalen"
+
+#~ msgid "Please click here to send a message!"
+#~ msgstr "Skriv inn meldingen her!"
+
+#~ msgid "Click to see even more emoticons"
+#~ msgstr "Klikk for å se enda mer emoticons"
+
+#~ msgid "more"
+#~ msgstr "mer"
+
+#~ msgid "less"
+#~ msgstr "mindre"
+
+#~ msgid "Click to collapse emoticons"
+#~ msgstr "Klikk for å skjule emoticons"
+
+#~ msgid "click to close"
+#~ msgstr "Klikk for å lukke"
