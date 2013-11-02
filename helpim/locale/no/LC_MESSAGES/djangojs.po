@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: HelpIM3 3.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-08 00:55+0200\n"
-"PO-Revision-Date: 2013-10-31 21:36+0100\n"
+"PO-Revision-Date: 2013-11-02 17:43+0100\n"
 "Last-Translator: Maurice Samulski <msamulski@gmail.com>\n"
 "Language-Team: Bondetelefonen\n"
 "Language: nb\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: static/xmpptk/helpim/util.js:36
 msgid "Warning: this action will disconnect your chat conversation."
-msgstr "Advarsel: Denne handlingen vil koble fra chat-samtale."
+msgstr "Advarsel: denne handlingen vil koble fra chat-samtalen."
 
 #: static/xmpptk/helpim/ui/client.js:55
 #: static/xmpptk/helpim/ui/muc/one2oneroom.js:166
@@ -81,16 +81,16 @@ msgstr "venter..."
 
 #: static/xmpptk/helpim/ui/client_running.js:24
 msgid "Sorry, there's already a conversation active at some other window."
-msgstr "Beklager, det er allerede en samtale aktiv på noen andre vinduet."
+msgstr "Beklager, det er allerede en samtale aktiv i et annet vindu."
 
 #: static/xmpptk/helpim/ui/muc/lobbyroom.js:46
 msgid "Request Client"
-msgstr "Be om hjelpsøker"
+msgstr "Be om innringer"
 
 #: static/xmpptk/helpim/ui/muc/one2oneroom.js:42
 #, perl-format
 msgid "Welcome %s, now wait for a participant to join!"
-msgstr "Velkommen %s, nå venter på en deltaker til å bli med!"
+msgstr "Velkommen %s, vent på at en deltaker blir med!"
 
 #: static/xmpptk/helpim/ui/muc/one2oneroom.js:53
 msgid "Ring! Ring!"
@@ -99,11 +99,11 @@ msgstr "Ring! Ring!"
 #: static/xmpptk/helpim/ui/muc/one2oneroom.js:135
 #: static/xmpptk/helpim/ui/muc/one2oneroom.js:145
 msgid "Block Participant"
-msgstr "Blokk hjelpsøker"
+msgstr "Blokker innringer"
 
 #: static/xmpptk/helpim/ui/muc/one2oneroom.js:157
 msgid "Block participant"
-msgstr "Blokk hjelpsøker"
+msgstr "Blokker innringer"
 
 #: static/xmpptk/helpim/ui/muc/waitingroom.js:53
 msgid "Please wait!"
@@ -114,7 +114,7 @@ msgid ""
 "Please wait while we're acquiring a conversation for you! This can take some "
 "time."
 msgstr ""
-"Vennligst vent mens vi anskaffe en samtale for deg! Dette kan ta litt tid."
+"Vennligst vent mens vi skaffer en samtale for deg! Dette kan ta litt tid."
 
 #~ msgid "%s stopped composing"
 #~ msgstr "%s har sluttet å skrive"
